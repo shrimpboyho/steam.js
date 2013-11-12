@@ -6,6 +6,6 @@
   
   Steam.prototype.setSteamID = function(id){
     this.id = id;
-  }
+  };
 
 })();
